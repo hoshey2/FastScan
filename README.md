@@ -1,5 +1,5 @@
 # FastScan
-Qucik scanner I scripted using RustScan and Nmap
+Quick scanner I scripted using RustScan and Nmap
 
 # use bash
 ! /bin/bash
